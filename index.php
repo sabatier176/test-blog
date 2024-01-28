@@ -1,0 +1,27 @@
+<?php
+/*
+Commentaire sur plusieurs lignes 
+*/
+//sur une ligne
+echo "Hello world" ;
+?>
+
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <!--ligne responsivité pour noytamment afficher sur telephone-->
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Titre dans l'onglet</title>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="icon" href="./favicon.ico" type="image/x-icon">
+  </head>
+  <body>
+    <main>
+        <h1>Welcome to My Website</h1>  
+        <!-- ici un commentaire -->
+    </main>
+	<script src="index.js"></script>
+  </body>
+</html>
